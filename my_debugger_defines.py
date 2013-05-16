@@ -1,5 +1,5 @@
 from ctypes import *
-
+# A comment 
 # Let's map the Microsoft types to ctypes for clarity
 BYTE      = c_ubyte
 WORD      = c_ushort
